@@ -1,0 +1,9 @@
+name: MaceEvolution
+version: 1.0.0
+main: com.macesmp.maceevolution.MaceEvolutionPlugin
+api-version: '1.21'
+description: Ultimate 10 Evolution Mace SMP System
+commands:
+  mace:
+    description: Check your current mace evolution, kills, and admin controls
+    usage: /mace [info|setkills|reset]
